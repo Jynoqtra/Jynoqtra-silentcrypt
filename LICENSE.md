@@ -20,8 +20,12 @@ By using this software (the "Software"), you (the "User") agree to the following
    This license will terminate immediately if you breach any of the terms and conditions set forth in this agreement.
 
 6. **Governing Law**: 
-   This agreement shall be governed by the laws of [Your Region].
+   This agreement shall be governed by the laws of [the applicable jurisdiction, without regard to its conflict of law principles].
 
-Effective Date: [Date]
+7. **WARNING**:
+   In no event shall the Licensor be liable for any direct, indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenue, data, or use, incurred by you or any third party, whether in an action in contract, tort (including but 
+   not limited to negligence), or otherwise, even if the Licensor has been advised of the possibility of such damages. The entire risk of using the software rests with the user.
 
-© 2024 [Your Company/Name]
+Effective Date: [2024]
+
+© 2024 [Jynoqtra]
