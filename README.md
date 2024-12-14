@@ -1,8 +1,8 @@
 # Jynoqtra'silentcrypt
 Jynoqtra'silentcrypt is a secure software for securing your sensitive data...
 
-## Installation
-Download the code or copy and paste it...
+##Guide
+Guide is here 😜👉(GUIDE.md).
 
 ## NOTE
 Compile it after.
