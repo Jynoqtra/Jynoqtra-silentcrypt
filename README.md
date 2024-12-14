@@ -1,11 +1,14 @@
-# Jynoqtra'silentcrypt
+# Jynoqtra'silentcrypt:
 Jynoqtra'silentcrypt is a secure software for securing your sensitive data...
 
-##Guide
-Guide is here 😜👉(GUIDE.md).
+## Guide:
+Click [GUIDE](GUIDE.md) to see it.
 
-## NOTE
+## NOTE:
 Compile it after.
 
-## License
+## License:
 This project is licensed under the [Private Use License](LICENSE.md).
+
+## My youtube channel:
+[Jynoqtra YouTube](https://www.youtube.com/@Jynoqtra)
